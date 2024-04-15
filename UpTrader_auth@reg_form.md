@@ -8,17 +8,15 @@
 Для подготовки тест-кейсов обязательно нужно использовать документацию. Информацию по странице регистрации можно найти по ключевым словам с помощью поиска. https://uptrader.atlassian.net/wiki/spaces/UD/
 
 
+Ссылка на скрины приложения:
 
-Pесурс: https://fc674c7f-da7f-4bad-b232-4f5c7c9508b1.serverhub.praktikum-services.ru
+https://drive.google.com/file/d/14WF3L5JMBE75u8AIUnKelx_jj7dBB_Ov/view?usp=sharing
 
-Ссылка на скрин приложения: https://drive.google.com/file/d/1N9KuvGWuBLcQL9kcBjGRmi6KzFaNlGmJ/view?usp=drive_link
+https://drive.google.com/file/d/1uX-0njHN37wIqT5lIt_T0M4mZS1hu0fu/view?usp=sharing
 
-Ссылка на скрин с требованиями: https://drive.google.com/file/d/1yj5ZQI97xN4dKbbzY8O5-dHZ6wPKELsW/view?usp=drive_link
 
-- написать __*тест-кейсы*__ проверки работы кнопки Забронировать согласно требованиям;
-- написать баг-репорт.
 
 РЕШЕНИЕ:
 
-ссылка на файл с __*тест-кейсами*__ и баг-репортом: https://docs.google.com/spreadsheets/d/14Wpj6Ss0xZdltgPaAiEfU6nY1Cd3-lXOIAS1JjTA7qs/edit?usp=drive_link
+ссылка на файл с __*тест-кейсами*__: https://docs.google.com/spreadsheets/d/1AA45aewQ-K_0e_MbxCd4R4MTG94uqfLGW7uosDIOMhs/edit?usp=sharing
 
